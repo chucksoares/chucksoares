@@ -10,13 +10,13 @@
 
  
 
-:computer: I'm information technician!           ![tenor](https://user-images.githubusercontent.com/77955119/124805829-62919900-df32-11eb-93d3-a44af82dc0d7.gif)
+:computer: I'm information technician!           
 
 :house_with_garden: I’m from Brazil.
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2021 Goals: Evolve my knowledge.
+:outbox_tray: 2021 Goals: Evolve my knowledge.                                   ![tenor](https://user-images.githubusercontent.com/77955119/124805829-62919900-df32-11eb-93d3-a44af82dc0d7.gif)
 
  
 
