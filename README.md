@@ -1,4 +1,5 @@
 
+
 ### Hello World 👋🌎 
 # Welcome!
 
@@ -10,8 +11,8 @@
 ## About me <p> I'm a computer science student and I try to evolve every day. </p>
 
 
- 
-
+ <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
+![tenor](https://user-images.githubusercontent.com/77955119/124813744-9ae9a500-df3b-11eb-9f1c-ab5dc66bd802.gif)
 :computer: I'm information technician!           
 
 :house_with_garden: I’m from Brazil.
