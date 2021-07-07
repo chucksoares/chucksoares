@@ -8,6 +8,7 @@
 
 ## I'm (Felipe Soares)!
 
+## About me
 <p> I'm a computer science student and I try to evolve every day. </p>
 
  
@@ -21,7 +22,7 @@
 :outbox_tray: 2021 Goals: Evolve my knowledge.                                   
  
 
-## About me
+
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/chucksoares)
 
