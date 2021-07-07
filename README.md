@@ -1,3 +1,4 @@
+
 ### Hello World 👋🌎
 
 
@@ -9,7 +10,7 @@
 
  
 
-:computer: I'm information technician!
+:computer: I'm information technician!           ![tenor](https://user-images.githubusercontent.com/77955119/124805829-62919900-df32-11eb-93d3-a44af82dc0d7.gif)
 
 :house_with_garden: I’m from Brazil.
 
