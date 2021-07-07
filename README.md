@@ -6,7 +6,7 @@
 
  
 
-## I'm (Felipe Soares)!
+## I'm Felipe Soares!
 
 ## About me <p> I'm a computer science student and I try to evolve every day. </p>
 
