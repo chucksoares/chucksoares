@@ -14,7 +14,7 @@
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2021 Goals: create a new project.
+:outbox_tray: 2021 Goals: Evolve my knowledge.
 
  
 
