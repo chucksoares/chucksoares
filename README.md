@@ -24,9 +24,8 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/chucksoares)
 
-<a href="https://in.linkedin.com/in/TheDudeThatCode">
-    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+
 
 - Thanks for visiting.
 
