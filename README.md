@@ -8,7 +8,7 @@
 
 ## I'm Felipe Soares!
 
-## About me <p> I'm a computer science student and I try to evolve every day. </p>
+## About me: <p> I'm a computer science student and I try to evolve every day. </p>
 
 
  <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
