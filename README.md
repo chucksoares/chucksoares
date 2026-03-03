@@ -8,7 +8,7 @@
 
 ## I'm Felipe Soares!
 
-## About me: <p> I'm a computer science student and I try to evolve every day. </p>
+## About me: <p> Computer Science graduate and Backend Developer focused on building scalable and secure applications. </p>
 
 
  <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
